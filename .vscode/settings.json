@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Users\\Toshiba\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.linting.enabled": true
+}
